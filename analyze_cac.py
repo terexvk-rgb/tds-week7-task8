@@ -8,7 +8,7 @@ import math
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# ---- Data ---------------------------------------------------------
+# ---- Data --------------------
 data = {
     "quarter": ["Q1", "Q2", "Q3", "Q4"],
     "cac": [223.4, 225.27, 230.78, 230.93],  # 2024 data
